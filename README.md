@@ -7,7 +7,7 @@ birth dates, duplicate identities, and names that match a screening
 watchlist. Every violation gets written to an exceptions report with a
 stable reason code, the same way real AML/KYC systems communicate results.
 
-Second project in my risk & compliance analyst portfolio series (first:
+Second project in my risk & compliance analyst portfolio (first:
 [loan-eda](https://github.com/lakitm/loan-eda)). 
 
 ## Why the data is synthetic
